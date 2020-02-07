@@ -24,3 +24,9 @@ D:\projects\PerplexMail_GitHub\PerplexMail-for-Umbraco\PerplexMail\bin\Release\P
 D:\projects\PerplexMail_GitHub\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.csprojResolveAssemblyReference.cache
 D:\projects\PerplexMail_GitHub\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.dll
 D:\projects\PerplexMail_GitHub\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.pdb
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\bin\Release\PerplexMail.dll.config
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\bin\Release\PerplexMail.dll
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\bin\Release\PerplexMail.pdb
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.csprojAssemblyReference.cache
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.dll
+C:\repositories\PerplexMail-for-Umbraco\PerplexMail\obj\Release\PerplexMail.pdb
